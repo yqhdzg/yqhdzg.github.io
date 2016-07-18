@@ -1,6 +1,6 @@
 
 
-###mC
+#tree
 
 ## Thanks
 
@@ -16,11 +16,7 @@ The blog used many tool/service,many thanks to:
 * [Google](http://google.com), the one who tell me how to make it.
 * …
 
-## How To Creat A Jekyll Blog
 
-[Build-Your-First-GitHub-Pages-Blog](http://azeril.me/blog/Build-Your-First-GitHub-Pages-Blog.html)
-
-Build your blog Step by step
 ## Just write
 
 Start writing now！
