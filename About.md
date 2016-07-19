@@ -6,10 +6,9 @@ header-img: "img/plane.jpg"
 ---
 
 <center>
-    <p><img src="http://7xq83p.com1.z0.glb.clouddn.com/webwxgetmsgimg.jpg" align="center"></p>
+    <p><img src="http://7xq83p.com1.z0.glb.clouddn.com/touxiang.png" align="center"></p>
 </center>
 
-Ehhhh...I know it's not a good question.
 
 My Name is ChenLi. 
 
@@ -20,6 +19,4 @@ My Name is ChenLi.
 
 > stay hungry stay foolish
 
-<center>
-    <p><img src="http://dreamofbook.qiniudn.com/hacker.png" align="center"></p>
-</center>
+
